@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grid>
+    <name>Grid 30</name>
+    <date>27/12/2014</date>
+    <author>Akiko</author>
+    <level>1</level>
+    <width>4</width>
+    <height>4</height>
+    <horizontal>
+        <word x="o" y="0" description="come">abcd</word>
+        <word x="1" y="0" description="herei">ehi</word>
+        <word x="2" y="0" description="bye">fjnk</word>
+        <word x="3" y="2" description="back">lm</word>
+     </horizontal>
+     <vertical>
+         <word x="0" y="0" description="joak">aefg</word>
+         <word x="0" y="1" description="peck">bhj</word>
+         <word x="0" y="2" description="student">cinl</word>
+         <word x="0" y="3" description="www">km</word>
+     </vertical>
+     </grid>
+    
