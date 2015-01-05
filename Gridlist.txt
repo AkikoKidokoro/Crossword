@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<gridlist>
-<grid>01.xml</grid>
-<grid>02.xml</grid>
-</gridlist>
