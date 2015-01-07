@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grid>
+  <name>Grille 1</name>
+  <date>03/01/2012</date>
+  <author>Isshun</author>
+  <level>1</level>
+  <width>9</width>
+  <height>9</height>
+  <horizontal>
+    <word x="0" y="0" description="joychan">apotheose</word>
+    <word x="2" y="1" description="joyjoy">ceans</word>
+    <word x="0" y="2" description="joyful">barricada</word>
+    <word x="0" y="3" description="kidokoro">ire</word>
+    <word x="4" y="3" description="akiko">ta</word>
+    <word x="7" y="3" description="back">ri</word>
+    <word x="0" y="4" description="train">amer</word>
+    <word x="5" y="4" description="done">scie</word>
+    <word x="0" y="5" description="not">ne</word>
+    <word x="3" y="5" description="maybe">or</word>
+    <word x="6" y="5" description="abc def">ulm</word>
+    <word x="0" y="6" description="Alrigato">crocodile</word>
+    <word x="2" y="7" description="Fair tail">nouer</word>
+    <word x="0" y="8" description="Repérait">situerait</word>
+  </horizontal>
+  <vertical>
+    <word x="0" y="0" description="The End">ambiances</word>
+    <word x="1" y="2" description="list band">armer</word>
+    <word x="2" y="0" description="Quize bed">ocree</word>
+    <word x="2" y="6" description="tender">ont</word>
+    <word x="3" y="0" description="Track bon">ter</word>
+    <word x="3" y="4" description="Come back home">rocou</word>
+    <word x="4" y="0" description="Dead end house">hait</word>
+    <word x="4" y="5" description="Disc">roue</word>
+    <word x="5" y="0" description="Robeart De Niro">encas</word>
+    <word x="5" y="6" description="We Are The Chanpion">der</word>
+    <word x="6" y="0" description="Trend">osa</word>
+    <word x="6" y="4" description="Christie">cuira</word>
+    <word x="7" y="2" description="Cut hair">drill</word>
+    <word x="8" y="0" description="Fait d'étayer">etaiement</word>
+  </vertical>
+</grid>
